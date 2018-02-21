@@ -1,0 +1,6 @@
+controller\UserController.class
+App.class
+config\SpringConfig.class
+service\UserService.class
+dao\UserDao.class
+service\TestBean.class
